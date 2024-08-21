@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently playing **Clash of Clans**
 
-- 💬 Add me in Discord **: _ghostcode_**
+- 💬 Add me in Discord **: ___ghostcode___**
 
 - 📫 How to reach me **ghostcodeissue@outlook.com**
 
