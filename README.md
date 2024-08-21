@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Hardling Development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently playing **Clash of Clans**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Add me in Discord **_ghostcode_**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **ghostcodeissue@outlook.com**
 
 - ⚡ Fun fact **I am Funny**
 
