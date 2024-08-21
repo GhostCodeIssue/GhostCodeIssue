@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GhostCode</h1>
 <h3 align="center">A passionate Developer from United Stades, Virginia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=6c09b952foz76sf83tw3hz2dyopux13deyn979yqc2ia6vsd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GhostCodeIssue&label=Profile%20views&color=0e75b6&style=flat" alt="GhostCodeIssue" /> </p>
